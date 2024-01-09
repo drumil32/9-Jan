@@ -1,0 +1,81 @@
+#container {
+    border: 2px solid black;
+    width: 53%;
+    text-align: center;
+    margin: auto;
+    padding: 5px;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+header h1 {
+    margin: 0px
+}
+
+header p {
+    margin: 0px;
+    text-align: left;
+}
+
+.bold {
+    font-weight: 900;
+}
+
+.small-divder {
+    background-color: black;
+    margin: 0px;
+    height: 2px;
+}
+
+header h3 {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px;
+    font-size: 16px;
+}
+
+.large-divider {
+    height: 10px;
+    margin: 2px;
+    background-color: black;
+}
+
+section p {
+    margin: 0px;
+    text-align: left;
+    font-size: 14px;
+}
+
+section h3 {
+    margin: 0px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 30px;
+}
+
+.medium-divider {
+    height: 7px;
+    background-color: black;
+    margin: 0px
+}
+
+section p {
+    text-align: left;
+    margin: 0px;
+}
+
+#subTitle{
+    text-align: right;
+    display: block;
+}
+
+p {
+    margin: 0px;
+}
+
+main p{
+    display: flex;
+    justify-content: space-between;
+}
